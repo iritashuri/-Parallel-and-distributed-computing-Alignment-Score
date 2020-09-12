@@ -1,5 +1,6 @@
 # -Parallel-and-distributed-computing-Alignment-Score
 MPI+OpenMP+CUDA Program to calculate Alignment Score algorithm. 
+The project feet in the Linux environment
 
 ### Introduction ###
 Gets File with weights array, sequence 1, NS2 - number of sequences to test and NS2 sequences2.
