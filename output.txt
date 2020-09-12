@@ -1,0 +1,4 @@
+best Offset = 363, best MS =  85
+best Offset = 126, best MS =  41
+best Offset = 855, best MS =  51
+best Offset = 975, best MS =  245
